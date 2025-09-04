@@ -1,0 +1,22 @@
+<svg width="37" height="38" viewBox="0 0 37 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1483_115" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="1" width="37" height="37">
+<path d="M36.7632 1.06543H0.763184V37.0654H36.7632V1.06543Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_1483_115)">
+<path d="M14.0151 5.34213V3.76172H23.5111V18.5661H14.0151V6.39723" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M14.0169 26.9717H4.51953V36.538H14.0169M14.0169 26.9717H23.5143M14.0169 26.9717V36.538M23.5143 26.9717H33.0117V36.538H23.5143M23.5143 26.9717V36.538M14.0169 36.538H23.5143" stroke="black" stroke-width="0.7" stroke-miterlimit="10"/>
+<path d="M14.0151 14.3633H23.5111" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M23.5112 6.93262H25.6371V15.3689H23.5112" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M14.0155 8.79102H11.9121V13.4823H14.0155" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M21.3741 1.59277H16.1614C15.5626 1.59277 15.0771 2.07819 15.0771 2.67707C15.0771 3.27588 15.5626 3.76136 16.1614 3.76136H21.3741C21.9729 3.76136 22.4584 3.27595 22.4584 2.67707C22.4584 2.07819 21.9729 1.59277 21.3741 1.59277Z" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M16.1235 5.3418V6.3969" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M18.2383 5.3418V6.3969" stroke="black" stroke-width="0.8" stroke-miterlimit="10"/>
+<path d="M18.7681 18.5654V31.719" stroke="black" stroke-miterlimit="10"/>
+<path d="M26.0615 21.1689H29.2268" stroke="black" stroke-miterlimit="10"/>
+<path d="M25.4443 19.262L27.8691 17.2275" stroke="black" stroke-miterlimit="10"/>
+<path d="M27.8691 25.1089L25.4443 23.0742" stroke="black" stroke-miterlimit="10"/>
+<path d="M11.5262 21.1689H8.36084" stroke="black" stroke-miterlimit="10"/>
+<path d="M12.1435 19.262L9.71875 17.2275" stroke="black" stroke-miterlimit="10"/>
+<path d="M9.71875 25.1089L12.1435 23.0742" stroke="black" stroke-miterlimit="10"/>
+</g>
+</svg>
